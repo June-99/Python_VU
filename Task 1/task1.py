@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 
-#python task1.py <textfile> <r1> <r2> (r3)
+#python task1.py <textfile> <r1> <r2> (r3) ##
 """
 r1 = ip or http
 r2 = 1(count) or 2(percentage) or 3(total bytes)
